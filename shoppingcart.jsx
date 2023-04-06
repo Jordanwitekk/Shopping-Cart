@@ -9,7 +9,7 @@ const products = [
 const photos = ["Images/apple.jpeg", "Images/orange.jpeg", "Images/beans.jpeg", "Images/cabbage.jpeg"];
 
 
-const ShoppingCart = (props) =>
+const shoppingcart = (props) =>
 {
     // valid PROPS input(s)
 
